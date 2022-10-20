@@ -31,9 +31,9 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis id
-          quos deserunt, maxime sint sunt tempore quidem ad praesentium itaque,
-          aspernatur, magnam culpa iste adipisci?
+          Hello my name is Dio Alfikih Azhari. I'm 19 years old. I'm student at SMAN 8 BandarLampung, Lampung.
+          I have experience in UI/UX Creator Bot Whatsapp and mobile programming.
+          I work as a UI / UX Programming in one of the start-up which is said to be a beginner, DevJect.
         </p>
       </h2>
 
