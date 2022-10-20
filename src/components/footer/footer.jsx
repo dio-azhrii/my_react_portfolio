@@ -18,10 +18,10 @@ function Footer() {
         </a>
       </h1>
       <div className="social-links">
-        <a href="#">
+        <a href="www.instagram.com/azhriixty">
           <BsInstagram className="social" />
         </a>
-        <a href="#">
+        <a href="www.facebook.com/dioazhrii">
           {" "}
           <FaFacebookF className="social" />
         </a>
@@ -34,7 +34,7 @@ function Footer() {
           <TiSocialYoutube className="social" />
         </a>
 
-        <a href="#">
+        <a href="github.com/dio-azhrii">
           <TiSocialGithub className="social" />
         </a>
       </div>
