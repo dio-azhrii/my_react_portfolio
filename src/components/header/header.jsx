@@ -7,7 +7,7 @@ function Header() {
         <p>
           I<span>'</span>m
         </p>
-        Chrys
+        Diox
       </h3>
       <h2>Front-End Web Developer</h2>
     </div>
