@@ -9,31 +9,31 @@ function Contact() {
       <h1>Contact Me</h1>
       <div className="contact-links">
         <a
-          href="https://www.youtube.com/channel/UCzoBz4EKrLOvm3L4DDNc_pg"
+          href="https://www.youtube.com/"
           className="contact youtube"
           target={"blank"}
         >
           <AiOutlineYoutube className="icon" />
           <h2>
-            youtube <span>Creative Ambition</span>
+            youtube <span>Coming Soon</span>
           </h2>
         </a>
 
         <a
-          href="https://wa.link/bywzv3"
+          href="https://wa.me/62895335209060"
           className="contact whatsapp"
           target={"blank"}
         >
           <AiOutlineWhatsApp className="icon" />
           <h2>
-            whatsapp <span>+233 20 918 2598</span>
+            whatsapp <span>+62 895 3352 09060</span>
           </h2>
         </a>
 
         <a href="#" className="contact instagram">
           <AiOutlineInstagram className="icon" />
           <h2>
-            instagram <span>_Creative_Ambition_</span>
+            instagram <span>azhriixty</span>
           </h2>
         </a>
       </div>
