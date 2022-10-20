@@ -7,50 +7,19 @@ const Members = () => {
       <div className="member member-1">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">Chrys</h1>
+          <h1 className="name">DioAzhari</h1>
           <h3 className="position">Leader</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
+            Hello my name is Dio Alfikih Azhari. I'm 19 years old. I'm student at SMAN 8 BandarLampung, Lampung.
+            I have experience in UI/UX Creator Bot Whatsapp and mobile programming.
+            I work as a UI / UX Programming in one of the start-up which is said to be a beginner,
+             DevJect.
           </h4>
           <a href="#contact" className="contact-member">
             <span>contact</span>
           </a>
         </div>
-      </div>
-
-      <div className="member member-2">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">CChrys</h1>
-          <h3 className="position">Another Leader</h3>
-          <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
-          </h4>
-          <a href="#contact" className="contact-member">
-            <span>contact</span>
-          </a>
-        </div>
-      </div>
-
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">CCChrys</h1>
-          <h3 className="position">Another Leader Again</h3>
-          <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
-          </h4>
-          <a href="#contact" className="contact-member">
-            <span>contact</span>
-          </a>
-        </div>
-      </div>
+      </div>  
     </div>
   );
 };
