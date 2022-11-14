@@ -22,15 +22,15 @@ function Footer() {
           <BsInstagram className="social" />
         </a>
         <a href="www.facebook.com/dioazhrii">
-          {" "}
+          {"add here"}
           <FaFacebookF className="social" />
         </a>
-        <a href="#">
-          {" "}
+        <a href="https://diox.rf.gd">
+          {"watch"}
           <TiSocialDribbble className="social" />
         </a>
 
-        <a href="#">
+        <a href="https://youtube.com/">
           <TiSocialYoutube className="social" />
         </a>
 
